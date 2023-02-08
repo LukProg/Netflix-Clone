@@ -2,7 +2,7 @@
 
 In this project, I build a front-end Netflix clone with a Firebase back-end. I used the TMDB API for all the data and Firebase Authentication for user login functionality. The front-end is built with React and the back-end is powered by Firebase's Firestore for cloud storage. Styling is handled with the help of Tailwind CSS, a fast and efficient CSS framework.
 
-# Project Requirements:
+## Project Requirements:
 
 React
 Firebase
